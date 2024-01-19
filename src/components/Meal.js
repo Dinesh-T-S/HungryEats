@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import { categories, mealData } from "../data/data";
+import { mealData } from "../data/data";
 import {ArrowSmRightIcon} from "@heroicons/react/outline"
 
 const Meal = () => {
